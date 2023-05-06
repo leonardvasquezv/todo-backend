@@ -1,0 +1,17 @@
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\obj\Debug\net6.0\Todo.Datos.csproj.AssemblyReference.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\obj\Debug\net6.0\Todo.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\obj\Debug\net6.0\Todo.Datos.AssemblyInfoInputs.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\obj\Debug\net6.0\Todo.Datos.AssemblyInfo.cs
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\obj\Debug\net6.0\Todo.Datos.csproj.CoreCompileInputs.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\bin\Debug\net6.0\Todo.Datos.deps.json
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\bin\Debug\net6.0\Todo.Datos.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\bin\Debug\net6.0\Todo.Datos.pdb
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\bin\Debug\net6.0\Todo.DtoModel.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\bin\Debug\net6.0\Todo.Entidades.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\bin\Debug\net6.0\Todo.DtoModel.pdb
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\bin\Debug\net6.0\Todo.Entidades.pdb
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\obj\Debug\net6.0\Todo.Datos.csproj.CopyComplete
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\obj\Debug\net6.0\Todo.Datos.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\obj\Debug\net6.0\refint\Todo.Datos.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\obj\Debug\net6.0\Todo.Datos.pdb
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Datos\obj\Debug\net6.0\ref\Todo.Datos.dll

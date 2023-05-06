@@ -1,0 +1,12 @@
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\bin\Debug\net6.0\Todo.Entidades.deps.json
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\bin\Debug\net6.0\Todo.Entidades.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\bin\Debug\net6.0\Todo.Entidades.pdb
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\obj\Debug\net6.0\Todo.Entidades.csproj.AssemblyReference.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\obj\Debug\net6.0\Todo.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\obj\Debug\net6.0\Todo.Entidades.AssemblyInfoInputs.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\obj\Debug\net6.0\Todo.Entidades.AssemblyInfo.cs
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\obj\Debug\net6.0\Todo.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\obj\Debug\net6.0\Todo.Entidades.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\obj\Debug\net6.0\refint\Todo.Entidades.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\obj\Debug\net6.0\Todo.Entidades.pdb
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Entidades\obj\Debug\net6.0\ref\Todo.Entidades.dll

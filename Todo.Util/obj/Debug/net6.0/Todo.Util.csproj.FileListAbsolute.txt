@@ -1,0 +1,12 @@
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\bin\Debug\net6.0\Todo.Util.deps.json
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\bin\Debug\net6.0\Todo.Util.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\bin\Debug\net6.0\Todo.Util.pdb
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\obj\Debug\net6.0\Todo.Util.csproj.AssemblyReference.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\obj\Debug\net6.0\Todo.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\obj\Debug\net6.0\Todo.Util.AssemblyInfoInputs.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\obj\Debug\net6.0\Todo.Util.AssemblyInfo.cs
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\obj\Debug\net6.0\Todo.Util.csproj.CoreCompileInputs.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\obj\Debug\net6.0\Todo.Util.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\obj\Debug\net6.0\refint\Todo.Util.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\obj\Debug\net6.0\Todo.Util.pdb
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.Util\obj\Debug\net6.0\ref\Todo.Util.dll

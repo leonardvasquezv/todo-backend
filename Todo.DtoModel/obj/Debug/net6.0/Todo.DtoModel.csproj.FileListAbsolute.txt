@@ -1,0 +1,12 @@
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\bin\Debug\net6.0\Todo.DtoModel.deps.json
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\bin\Debug\net6.0\Todo.DtoModel.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\bin\Debug\net6.0\Todo.DtoModel.pdb
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\obj\Debug\net6.0\Todo.DtoModel.csproj.AssemblyReference.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\obj\Debug\net6.0\Todo.DtoModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\obj\Debug\net6.0\Todo.DtoModel.AssemblyInfoInputs.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\obj\Debug\net6.0\Todo.DtoModel.AssemblyInfo.cs
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\obj\Debug\net6.0\Todo.DtoModel.csproj.CoreCompileInputs.cache
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\obj\Debug\net6.0\Todo.DtoModel.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\obj\Debug\net6.0\refint\Todo.DtoModel.dll
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\obj\Debug\net6.0\Todo.DtoModel.pdb
+C:\Users\lvillega\Desktop\Todo\Todo.Backend\Todo.DtoModel\obj\Debug\net6.0\ref\Todo.DtoModel.dll

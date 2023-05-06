@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Todo.Datos\Todo.Datos.csproj" />
+    <ProjectReference Include="..\Todo.DtoModel\Todo.DtoModel.csproj" />
+    <ProjectReference Include="..\Todo.Util\Todo.Util.csproj" />
+  </ItemGroup>
+
+</Project>
